@@ -1,0 +1,12 @@
+Steps for database creation:
+Create a database named nayna_project in phpmyadmin(localhost)
+then go to import > then import the File named nayna_project.sql
+wait until all tables get imported.
+
+CONGRATULATIONS! Database Created successfully.
+
+Run the project by specifing the directory:
+eg: localhost/my_project/
+
+
+GOOD LUCK AND ENJOY !!!
